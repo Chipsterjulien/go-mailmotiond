@@ -1,0 +1,6 @@
+2014-06-22 19:33:00,265 :: CRITICAL :: Unable to send an email
+'list' object has no attribute 'encode'
+2014-06-22 19:34:18,310 :: CRITICAL :: Unable to send an email
+'list' object has no attribute 'encode'
+2014-06-22 19:35:38,491 :: CRITICAL :: Unable to send an email
+'ascii' codec can't encode characters in position 632-635: ordinal not in range(128)
